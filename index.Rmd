@@ -1,5 +1,5 @@
 ---
-title: "A {fun} Intro to R Programming"
+title: "A {divertida} Intro to R Programming"
 subtitle: "The basics,<br>data wrangling,<br>and more!"
 output: 
   xaringan::moon_reader:
@@ -70,7 +70,7 @@ meta() %>%
     title = "Intro to R Programming",
     url = "https://www.favstats.eu",
     og_type = "website",
-    og_author = "Fabio Votta",
+    og_author = "José R. Caro",
     twitter_card_type = "summary_large_image",
     twitter_creator = "@favstats"
   )
@@ -128,7 +128,7 @@ class: primary
 <br>
 
 
-Fabio Votta
+José R. Caro Barrera
 
 [`r fa(name = "twitter", fill = "black")` @favstats](http://twitter.com/favstats)<br>
 [`r fa(name = "github", fill = "black")` @favstats](http://github.com/favstats)<br>
