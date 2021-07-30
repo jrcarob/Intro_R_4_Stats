@@ -1,13 +1,12 @@
-# Data Science Summer School
+# Introducción a la Estadística con R 
 
 ![](https://socialdatascience.network/courses/poster/r.png)
 
+Aquí se puede encontrar material del curso:
 
-Here you can find the materials for the R Workshop:
+Introducción a la Estadística con R.
 
-Introduction to R Programming.
-
-+ [Link to Slides](https://favstats.github.io/ds3_r_intro)
++ [Enlace a la presentación](https://github.com/jrcarob/Intro_R_4_Stats)
 
 **Scripts:**
 
