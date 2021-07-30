@@ -1,6 +1,6 @@
 ---
-title: "A {divertida} Intro to R Programming"
-subtitle: "The basics,<br>data wrangling,<br>and more!"
+title: "Una {divertida} Introducción a la Estadística con R"
+subtitle: "Fundamentos,<br>análisis de datos,<br>¡y más!"
 output: 
   xaringan::moon_reader:
     css:
