@@ -72,13 +72,14 @@ meta() %>%
     og_type = "website",
     og_author = "José R. Caro",
     twitter_card_type = "summary_large_image",
-    twitter_creator = "@favstats"
+    twitter_creator = "@caroisallin"
   )
 ```
 
 ```{r setup, include=FALSE}
 # dateWritten <- format(as.Date('2020-05-04'), format="%B %d %Y")
-workshop_day <- format(as.Date("2021-07-09"), format="%B %d %Y")
+# workshop_day <- format(as.Date("2021-07-09"), format="%B %d %Y")
+workshop_day <- "Curso 2021-2022"
 pacman::p_load(tidyverse, fontawesome, tidyverse, knitr)
 
 options(
@@ -130,14 +131,14 @@ class: primary
 
 José R. Caro Barrera
 
-[`r fa(name = "twitter", fill = "black")` @favstats](http://twitter.com/favstats)<br>
-[`r fa(name = "github", fill = "black")` @favstats](http://github.com/favstats)<br>
-[`r fa(name = "link", fill = "black")` favstats.eu](https://www.favstats.eu)
+[`r fa(name = "twitter", fill = "black")` @caroisallin](http://twitter.com/caroisallin)<br>
+[`r fa(name = "github", fill = "black")` @jcarob](https://github.com/jrcarob)<br>
+[`r fa(name = "link", fill = "black")` jrcarobarrera](https://www.jrcarobarrera.com)
 
 
 `r workshop_day`
 
-.fifty[Link to slides: [favstats.github.io/ds3_r_intro](https://favstats.github.io/ds3_r_intro)]
+.fifty[Enlace al material: [jrcarob.github.io/Intro_R_4_Stats](https://github.com/jrcarob/Intro_R_4_Stats)]
 
 ---
 
